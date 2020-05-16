@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\3.StudentsLINQ\bin\Debug\3.StudentsLINQ.exe.config
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\3.StudentsLINQ\bin\Debug\3.StudentsLINQ.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\3.StudentsLINQ\bin\Debug\3.StudentsLINQ.pdb
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\3.StudentsLINQ\obj\Debug\3.StudentsLINQ.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\3.StudentsLINQ\obj\Debug\3.StudentsLINQ.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\3.StudentsLINQ\obj\Debug\3.StudentsLINQ.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\3.StudentsLINQ\obj\Debug\3.StudentsLINQ.pdb

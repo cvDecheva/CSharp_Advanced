@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\4.DivisibleBy7And3\bin\Debug\4.DivisibleBy7And3.exe.config
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\4.DivisibleBy7And3\bin\Debug\4.DivisibleBy7And3.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\4.DivisibleBy7And3\bin\Debug\4.DivisibleBy7And3.pdb
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\4.DivisibleBy7And3\obj\Debug\4.DivisibleBy7And3.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\4.DivisibleBy7And3\obj\Debug\4.DivisibleBy7And3.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\4.DivisibleBy7And3\obj\Debug\4.DivisibleBy7And3.pdb

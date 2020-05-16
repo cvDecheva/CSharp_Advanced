@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\ExtensionsForIEnumerable\bin\Debug\ExtensionsForIEnumerable.exe.config
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\ExtensionsForIEnumerable\bin\Debug\ExtensionsForIEnumerable.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\ExtensionsForIEnumerable\bin\Debug\ExtensionsForIEnumerable.pdb
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\ExtensionsForIEnumerable\obj\Debug\2.ExtensionsForIEnumerable.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\ExtensionsForIEnumerable\obj\Debug\2.ExtensionsForIEnumerable.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\ExtensionsForIEnumerable\obj\Debug\ExtensionsForIEnumerable.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\ExtensionsForIEnumerable\obj\Debug\ExtensionsForIEnumerable.pdb

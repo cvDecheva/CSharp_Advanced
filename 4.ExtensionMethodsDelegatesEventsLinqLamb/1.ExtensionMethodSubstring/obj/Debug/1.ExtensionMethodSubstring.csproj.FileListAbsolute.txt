@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\1.ExtensionMethodSubstring\bin\Debug\1.ExtensionMethodSubstring.exe.config
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\1.ExtensionMethodSubstring\bin\Debug\1.ExtensionMethodSubstring.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\1.ExtensionMethodSubstring\bin\Debug\1.ExtensionMethodSubstring.pdb
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\1.ExtensionMethodSubstring\obj\Debug\1.ExtensionMethodSubstring.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\1.ExtensionMethodSubstring\obj\Debug\1.ExtensionMethodSubstring.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\1.ExtensionMethodSubstring\obj\Debug\1.ExtensionMethodSubstring.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\1.ExtensionMethodSubstring\obj\Debug\1.ExtensionMethodSubstring.pdb

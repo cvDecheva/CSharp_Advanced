@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\5.Delegates\bin\Debug\5.Delegates.exe.config
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\5.Delegates\bin\Debug\5.Delegates.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\5.Delegates\bin\Debug\5.Delegates.pdb
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\5.Delegates\obj\Debug\5.Delegates.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\5.Delegates\obj\Debug\5.Delegates.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\5.Delegates\obj\Debug\5.Delegates.exe
+D:\ZaRibaAcademy\2. OOP, Quality Code & Algorithms\4.ExtensionMethodsDelegatesEventsLinqLamb\5.Delegates\obj\Debug\5.Delegates.pdb
